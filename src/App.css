@@ -1,5 +1,23 @@
+* {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
 .App {
-  text-align: center;
+    color: #69235a;
+    background-image: linear-gradient(0deg, #ffdff0, #ff8bcb);
+    background-attachment: fixed;
+    height: 110vh;
+    text-align: center;
+    overflow: scroll;
+}
+#gallery{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+.box{
+    width: 20%;
+    margin: 0;
 }
 
 .App-logo {
@@ -14,7 +32,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #d7e2fa;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
