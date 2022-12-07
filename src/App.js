@@ -20,9 +20,9 @@ function App() {
         For example, I didn't realize that my site would not be hosted until the repo's visibility was set to 'public'.<br/>
         </p>
         <section id="gallery">
-            <img alt='p1' class='box' src='https://i.pinimg.com/736x/ee/1a/28/ee1a2805bbaaeb7cfc87266b320f78d7.jpg'/>
-            <img alt='p2' class='box' src='https://w0.peakpx.com/wallpaper/592/838/HD-wallpaper-sunset-bgy-georgeus-purple.jpg'/>
-            <img alt='p3' class='box' src='https://phonewallpaperhd.com/wp-content/uploads/2021/04/Cute-Purple-Aesthetic-Wallpaper-for-Phones.jpg'/>
+            <img alt='pic1' className='box' src='https://www.cs.ryerson.ca/~cgpe/1.jpg'/>
+            <img alt='pic2' className='box' src='https://www.cs.ryerson.ca/~cgpe/2.jpg'/>
+            <img alt='pic3' className='box' src='https://www.cs.ryerson.ca/~cgpe/3.jpg'/>
         </section>
     </div>
   );
